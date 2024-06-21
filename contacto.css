@@ -1,0 +1,39 @@
+body {
+    background-color: beige;
+}
+
+.navbar {
+    text-align: end;
+    display: flex;
+    color: white;
+    background-color: black;
+}
+
+a {
+    color: white;
+}
+
+.imagen {
+    float: right;
+
+}
+
+form {
+    display: inline-block;
+}
+
+input {
+    display: block;
+}
+
+textarea {
+    display: block;
+}
+
+
+
+footer {
+    text-align: center;
+    background-color: black;
+    color: white;
+}

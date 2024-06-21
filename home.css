@@ -1,0 +1,16 @@
+.navbar {
+    text-align: end;
+    display: flex;
+    color: white;
+    background-color: black;
+}
+
+a {
+    color: white;
+}
+
+footer {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
